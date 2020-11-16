@@ -1,0 +1,32 @@
+h1 {
+
+    border: solid;
+text-align : center;
+    color: #e1e5e6;
+    margin-left : 500px;
+
+}
+.header {
+    display : flex;
+    background-color: #71ff00;
+    justify-content: space-between;
+}
+.grid {
+    display: flex;
+    flex-wrap : wrap;
+    justify-content: space-evenly;
+}
+.footer {
+    display: flex;
+    justify-content: flex-end;
+
+}
+p, h2 {
+    text-align: center;
+}
+.end { 
+    background-color: crimson;
+}
+.content{
+    background-color: greenyellow;
+}
